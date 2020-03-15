@@ -2,7 +2,7 @@
 
 class BetterEmoteSizes {
 
-	getName() { return "Emote Zoom"; }
+	getName() { return "BetterEmoteSizes"; }
 	getDescription() { return "Increases the size of emojis, emotes, and reactions upon hovering over them and allows you to change their default sizes."; }
 	getVersion() { return "2.4.18"; }
 	getAuthor() { return "Metalloriff, Patched by cmd430"; }
